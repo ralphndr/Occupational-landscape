@@ -1,5 +1,3 @@
-# 📘 README
-
 <h2>🌍 Overview</h2>
 <p>This project analyzes the influence of socio-economic factors on professional choices in France. Using data from the European Social Survey (ESS), it explores the impact of factors such as age, social origin, education level, and gender on occupational outcomes. The study relies on statistical methodologies and graphical representations to provide insights into workforce distribution and inequalities.</p>
 
